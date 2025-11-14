@@ -150,7 +150,7 @@ export const CATEGORIES = [
     color: 'bg-yellow-100 text-yellow-600'
   },
   {
-    name: 'Translation Operations Officer',
+    name: 'Operations Officer',
     description: 'Coordinate translators, schedules, and client bookings effectively',
     icon: '🗣️',
     color: 'bg-purple-100 text-purple-600'
